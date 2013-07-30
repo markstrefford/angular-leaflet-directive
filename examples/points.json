@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "51d691de0364b8e44f497514",
+        "name": "Holmes Chapel Comprehensive School",
+        "address": "Comp Street, Holmeschapel, Cheshire",
+        "location": "{ type : Point , coordinates : [ -2.36835960, 53.19773940 ] }"
+    },
+    {
+        "_id": "51d691de0364b8e44f497515",
+        "name": "Knutsford High School",
+        "address": "School Road, Knutsford, Cheshire",
+        "location": ""
+    },
+    {
+        "name": "Warrington",
+        "location": "Warrington Road, Warrington",
+        "_id": "51d85928ec45e3cb1f000001",
+        "__v": 0
+    },
+    {
+        "name": "Warrington",
+        "location": "Warrington Road, Warrington",
+        "_id": "51d859a2423bd4cf1f000001",
+        "__v": 0
+    },
+    {
+        "_id": "51ee9b058c007487d6178585",
+        "name": "Flint High School",
+        "address": "Northop Road, Flint",
+        "loc": {
+            "type": "point",
+            "coordinates": [
+                "-3.14",
+                "53.25"
+            ]
+        }
+    }
+]
